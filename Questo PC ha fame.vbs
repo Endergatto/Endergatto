@@ -1,0 +1,1 @@
+X=MsgBox("Dammi le banane.",4+16,"Il tuo computer ha fame")
